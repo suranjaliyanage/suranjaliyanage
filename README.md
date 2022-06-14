@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suranja Liyanage</h1>
-<h3 align="center">Im a passionate professional Software Fullstack Engineer, I always an enthusiastic, self-motivated, reliable, responsible and hard-working.</h3>
+<h3 align="center">Im a passionate professional Fullstack Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraliya&label=Profile%20views&color=0e75b6&style=flat" alt="suraliya" /> </p>
 
